@@ -1,3 +1,3 @@
 # Pong
  
-![](/assets/images/PongIcon.jpg)
+![ola](/PongIcon.jpg)
